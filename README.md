@@ -63,9 +63,6 @@ Paste the content of `SKILL.md` into the **Instructions** box of your GPT config
 
 I authored these standards to ensure that AI remains a tool for **pair programming**, not a source of technical debt. By defining the "Under the Hood" mechanics of how Go should be written based on my personal take and philosohpy, I ensure that generated code meets the standards of high-scale, enterprise-grade systems.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-%C3%B6zdemir-1ab36687/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/aliozdemir95)
-
 ---
 
 ## License
