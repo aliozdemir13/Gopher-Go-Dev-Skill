@@ -1,10 +1,10 @@
-# Gopher-Go-Dev-Skill 🐹
+# Gofrik-Go-Dev-Skill 🐹
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![LLM Optimization](https://img.shields.io/badge/LLM-Alignment-blueviolet?style=for-the-badge)
 ![License MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-**Gopher-Go-Dev-Skill** is a high-fidelity instruction set designed to align Large Language Models (LLMs like Claude, GPT-4, and Cursor) with the core philosophy of **Idiomatic Go**. 
+**Gofrik-Go-Dev-Skill** is a high-fidelity instruction set designed to align Large Language Models (LLMs like Claude, GPT-4, and Cursor) with the core philosophy of **Idiomatic Go**. 
 
 Most AI-generated Go code suffers from "Java-in-Go" syndrome—over-abstracted, unnecessarily clever, and bloated with third-party dependencies. This skill forces the LLM to adhere to the senior-level patterns of simplicity, standard-library purity, and architectural pragmatism.
 
@@ -12,7 +12,7 @@ Most AI-generated Go code suffers from "Java-in-Go" syndrome—over-abstracted, 
 
 ## The Philosophy: "Clear is better than Clever"
 
-This project is built on 8+ years of Solution Architecture experience. It rejects "magical" abstractions in favor of Go's foundational values:
+This project is built on 4+ years of Solution Architecture experience. It rejects "magical" abstractions in favor of Go's foundational values:
 
 - **Standard Library Purity:** Lean on the `net/http`, `os`, and `encoding/json` packages. Avoid "sugar" libraries unless absolutely necessary.
 - **Explicit Error Handling:** No hidden panics. Every error is handled meaningfully or wrapped with context.
